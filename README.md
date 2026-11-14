@@ -10,7 +10,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Bun](https://img.shields.io/badge/Bun-v1.x-fbf0df?style=for-the-badge&logo=bun&logoColor=black)](https://bun.sh)
 [![Railway](https://img.shields.io/badge/Hosted_on-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
-[![Uptime Kuma](https://img.shields.io/badge/Monitored_by-Uptime_Kuma-5CD65C?style=for-the-badge&logo=uptime-kuma&logoColor=white)](https://github.com/louislam/uptime-kuma)
+
 
 ---
 
